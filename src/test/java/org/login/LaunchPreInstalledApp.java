@@ -21,7 +21,8 @@ public class LaunchPreInstalledApp {
 		URL u = new URL("http://0.0.0.0:4723/wd/hub");
 		
 		AndroidDriver driver = new AndroidDriver(u,dc);  
-	
+		System.out.println("hari worked after get data from githum master");
+		System.out.println("hari");
 	
 	}
 
